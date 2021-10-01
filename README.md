@@ -1,6 +1,38 @@
-# HacktoberFest-2021
-**The biggest open-source festival is back. Let's celebrate and learn. This repository is being made for beginners who are first time contributers in HacktoberFest.**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55481820/135609022-e42622f8-5c7b-43d7-90e0-fab61d9b39b3.png" width="1100"/>
+</p>
+<br/>
+<br/>
 
+<p align = "center">
+  <a href="https://github.com/chayan-chawra-1903/HacktoberFest-2021/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/chayan-chawra-1903/HacktoberFest-2021?color=%23f5425d">
+  </a>
+  
+  <a href="https://github.com/chayan-chawra-1903/HacktoberFest-2021/pulls">
+    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chayan-chawra-1903/HacktoberFest-2021?color=3a55de">
+  </a>
+  
+  <a href="#">
+    <img alt="Forks" src="https://img.shields.io/github/forks/chayan-chawra-1903/HacktoberFest-2021">
+  </a>
+  
+  <a href="#">
+    <img alt="Stars" src="https://img.shields.io/github/stars/chayan-chawra-1903/HacktoberFest-2021?color=db920b">
+  </a>
+  
+  <a href="https://github.com/chayan-chawra-1903/HacktoberFest-2021/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/chayan-chawra-1903/HacktoberFest-2021">
+  </a> 
+</p>
+
+<br/>
+<br/>
+
+# HacktoberFest-2021
+**The biggest open-source festival is back. Let's celebrate and learn. This repository has been made for beginners who are first time contributers in HacktoberFest.**<br/>
+<br/>
+**Hacktoberfest** is the celebration of Open-Source, its that time of the year when people from all over the world come together to contribute to their favorite Open Source projects. You can get more information about HacktoberFest [here](https://hacktoberfest.digitalocean.com/).
 ### What to contribute?
 You can contribute programs based on algorithms in your favourite languages like `Java`, `Python`, `JavaScript`, `C`, `C++` etc. You can also Contribute coding solutions from your favourite platforms like - `Hackerrank`, `LeetCode`, `HackerEarth`, `Codeforces` etc.
 
@@ -16,5 +48,17 @@ example:
 * If you don't see your favourite programming language or your favourite platform, please create a new issue tagging the maintainers.
 * **Readme changes will be discarded straightaway.**
 * **Have patience after opening a PR, unnecessarily tagging the maintainers will lead to marking your PR as spam. If 2 PRs are marked as spam from one user, then they will be Blocked from further contribution to this repo.**
+* **If you have any ideas or suggestions, feel free to open an issue by using the appropriate template.**
+
+### Important guidelines about Pull Requests
+* You will only be allowed to add a max of 2 programs per Pull Request.
+* In order to stop spam, we are limiting the above type of PRs to only **2 per contributor**.
+* Once you have you have made 2 PRs of the above type, please post coding solutions from different platforms like `LeetCode`, `Hakerrank` etc. Please don't copy solutions. Post your own solutions.
+* While opening a PR, please provide a proper title and a description of your PR. The description should contain the full file-path where the changes have been made. Additionally:
+    * For a PR that consists of a code please also upload the screenshot of the output.
+    * For a coding solution from a coding platform, upload the screenshot of the selected solution that has passed all the test cases. Also post the time complexity of your solution in the description of your PR.
 
 
+**Please follow all the above guidelines to get your Pull Requests successfully merged and help us to reduce spam.**
+<br/>
+**Always remember, Hacktoberfest is about making "meaningful contributions" and learning, any kind of SPAM/HATRED is a big NO and WILL NOT BE TOLERATED.**
