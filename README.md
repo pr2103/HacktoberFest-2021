@@ -10,7 +10,7 @@
   </a>
   
   <a href="https://github.com/chayan-chawra-1903/HacktoberFest-2021/pulls">
-    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chayan-chawra-1903/HacktoberFest-2021?color=3a55de">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/chayan-chawra-1903/HacktoberFest-2021?color=3a55de">
   </a>
   
   <a href="#">
