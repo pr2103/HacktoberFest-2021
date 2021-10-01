@@ -14,6 +14,7 @@ You can contribute programs based on algorithms in your favourite languages like
 example:
 `Leetcode -> Build array from Permutation -> Problem Statement.md Solution.js`. Always follow this folder structure otherwise you PR will be discarded
 * If you don't see your favourite programming language or your favourite platform, please create a new issue tagging the maintainers.
+* While opening a PR please add proper description and also mention the files changed.
 * **Readme changes will be discarded straightaway.**
 * **Have patience after opening a PR, unnecessarily tagging the maintainers will lead to marking your PR as spam. If 2 PRs are marked as spam from one user, then they will be Blocked from further contribution to this repo.**
 
