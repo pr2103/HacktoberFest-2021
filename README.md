@@ -18,4 +18,5 @@ example:
 * **Readme changes will be discarded straightaway.**
 * **Have patience after opening a PR, unnecessarily tagging the maintainers will lead to marking your PR as spam. If 2 PRs are marked as spam from one user, then they will be Blocked from further contribution to this repo.**
 
+**If you have any ideas or suggestions, feel free to open an issue and tag any of the 2 maintainers.**
 
