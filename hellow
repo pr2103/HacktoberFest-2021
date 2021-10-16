@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+    printf("Hacktober Fest-2021");
+    return 0;
+}
